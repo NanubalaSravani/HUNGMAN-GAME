@@ -1,4 +1,4 @@
-# Bar-Graph
-Creating Bar Graph to represent data 
+# HUNGMAN GAME
+HUNGMAN GAME
 <br>
 Hello , This is Sravani
